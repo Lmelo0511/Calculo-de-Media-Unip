@@ -1,0 +1,254 @@
+body{
+    height: 100%;
+    margin: 0;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.corpo{
+    background-image: url("../IMG/header_01.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.imagemUnip{
+    width: 164px;
+    height: 51px;
+    margin-top: 7%;
+    margin-left: 45.6%;
+}
+.titulo{
+    color: white;
+    text-align: center;
+    margin-top: 2%;
+}
+.informandoNP1{
+    color: white;
+    margin-left: 42%;
+    font-size: 20px;
+}
+.informandoNP2{
+    color: white;
+    margin-left: 42%;
+    font-size: 20px;
+}
+.informandoNota{
+    border-radius: 5px;
+    border: none;
+    padding: 5px;
+    margin-top: 1%;
+}
+.informandoNota2{
+    border-radius: 5px;
+    border: none;
+    padding: 5px;
+    margin-top: 1%;
+}
+.informandoNota3{
+    border-radius: 5px;
+    border: none;
+    padding: 5px;
+    margin-top: 1%;
+}
+.Botao{
+    border-radius: 5px;
+    padding: 5px;
+    margin-left: 48%;
+    border: none;
+    margin-top: 1%;
+    width: 7.3%;
+}
+.Botao2{
+    border-radius: 5px;
+    padding: 5px;
+    margin-left: 48%;
+    border: none;
+    margin-top: 1%;
+}
+.informacao1{
+    color: white;
+    margin-left: 38%;
+    font-size: 20px;
+}
+.informacao2{
+    color: white;
+    margin-left: 31%;
+    font-size: 20px;
+    margin-top: 1%;
+}
+.informacao3{
+    color: white;
+    margin-left: 44%;
+    font-size: 20px;
+    margin-top: 1%;
+}
+
+@media screen and (max-width: 414px) {
+    .imagemUnip{
+        margin-left: 28%;
+    }
+    .titulo{
+        margin-left: 0%;
+        margin-top: 5%;
+    }
+    .informandoNP1{
+        margin-left: 15%;
+    }
+    .informandoNP2{
+        margin-left: 15%;
+    }
+    .informandoNota{
+        border-radius: 5px;
+        border: none;
+        padding: 5px;
+        margin-top: 5%;
+    }
+    .informandoNota2{
+        border-radius: 5px;
+        border: none;
+        padding: 5px;
+        margin-top: 5%;
+    }
+    .informandoNota3{
+        width: 20.8%;
+        margin-top: 5%;
+    }
+    .Botao{
+        padding: 5px;
+        width: 30.5%;
+        margin-top: 5%;
+        margin-left:35%
+    }
+    .Botao2{
+        padding: 5px;
+        width: 30.5%;
+        margin-top: 5%;
+        margin-left:35%
+    }
+    .informacao1{
+        margin-left: 10%;
+    }
+    .informacao2{
+        margin-left: 20%;
+        margin-top: 5%
+    }
+    .informacao3{
+        margin-left: 20%;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .imagemUnip{
+        margin-left: 28%;
+    }
+    .titulo{
+        margin-left: 0%;
+        margin-top: 5%;
+    }
+    .informandoNP1{
+        margin-left: 11%;
+    }
+    .informandoNP2{
+        margin-left: 11%;
+    }
+    .informandoNota{
+        border-radius: 5px;
+        border: none;
+        padding: 5px;
+        margin-top: 5%;
+    }
+    .informandoNota2{
+        border-radius: 5px;
+        border: none;
+        padding: 5px;
+        margin-top: 5%;
+    }
+    .informandoNota3{
+        width: 20.8%;
+        margin-top: 5%;
+    }
+    .Botao{
+        padding: 5px;
+        width: 30.5%;
+        margin-top: 10%;
+        margin-left:35%
+    }
+    .Botao2{
+        padding: 5px;
+        width: 30.5%;
+        margin-top: 5%;
+        margin-left:35%
+    }
+    .informacao1{
+        margin-left: 6%;
+    }
+    .informacao2{
+        margin-left: 15%;
+        margin-top: 5%
+    }
+    .informacao3{
+        margin-left: 16%;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .imagemUnip{
+        margin-left: 23%;
+    }
+    .titulo{
+        margin-left: 0%;
+        margin-top: 5%;
+        font-size: 20px;
+    }
+    .informandoNP1{
+        margin-left: 10%;
+        font-size: 15px;
+    }
+    .informandoNP2{
+        margin-left: 10%;
+        font-size: 15px;
+    }
+    .informandoNota{
+        border-radius: 5px;
+        border: none;
+        padding: 5px;
+        margin-top: 5%;
+    }
+    .informandoNota2{
+        border-radius: 5px;
+        border: none;
+        padding: 5px;
+        margin-top: 5%;
+    }
+    .informandoNota3{
+        width: 20.8%;
+        margin-top: 5%;
+    }
+    .Botao{
+        padding: 5px;
+        width: 30.5%;
+        margin-top: 10%;
+        margin-left:35%
+    }
+    .Botao2{
+        padding: 5px;
+        width: 30.5%;
+        margin-top: 5%;
+        margin-left:35%
+    }
+    .informacao1{
+        font-size: 17px;
+        margin-left: 5%;
+    }
+    .informacao2{
+        margin-left: 6%;
+        margin-top: 5%
+    }
+    .informacao3{
+        margin-left: 10%;
+    }
+}
