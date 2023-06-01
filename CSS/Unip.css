@@ -141,6 +141,25 @@ body{
     }
 }
 
+@media screen and (max-width: 390px) {
+    .informandoNP1{
+        margin-left: 7%;
+    }
+    .informandoNP2{
+        margin-left: 7%;
+    }
+    .informacao1{
+        margin-left: 7%;
+    }
+    .informacao2{
+        margin-left: 9%;
+        margin-top: 5%
+    }
+    .informacao3{
+        margin-left: 16%;
+    }
+}
+
 @media screen and (max-width: 375px) {
     .imagemUnip{
         margin-left: 28%;
