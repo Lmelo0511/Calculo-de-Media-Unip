@@ -19,7 +19,7 @@ body{
     width: 164px;
     height: 51px;
     margin-top: 7%;
-    margin-left: 45.6%;
+    margin-left: 46.6%;
 }
 .titulo{
     color: white;
@@ -28,12 +28,12 @@ body{
 }
 .informandoNP1{
     color: white;
-    margin-left: 42%;
+    margin-left: 43%;
     font-size: 20px;
 }
 .informandoNP2{
     color: white;
-    margin-left: 42%;
+    margin-left: 43%;
     font-size: 20px;
 }
 .informandoNota{
@@ -60,7 +60,7 @@ body{
     margin-left: 48%;
     border: none;
     margin-top: 1%;
-    width: 6.7%;
+    width: 4.9%;
 }
 .Botao2{
     border-radius: 5px;
@@ -71,18 +71,18 @@ body{
 }
 .informacao1{
     color: white;
-    margin-left: 38%;
+    margin-left: 42%;
     font-size: 20px;
 }
 .informacao2{
     color: white;
-    margin-left: 31%;
+    margin-left: 40%;
     font-size: 20px;
     margin-top: 1%;
 }
 .informacao3{
     color: white;
-    margin-left: 44%;
+    margin-left: 41%;
     font-size: 20px;
     margin-top: 1%;
 }
