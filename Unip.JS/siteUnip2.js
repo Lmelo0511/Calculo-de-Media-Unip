@@ -8,7 +8,7 @@ function calcularMedia() {
     else {
         var n3 = parseFloat(document.getElementById("notaExame").value);
         var media2 = ((n1 + n2) / 2 + n3) / 2;
-    if (media2 >= 5) {resultado2.textContent = "Você foi aprovado no exame! Sua média semestal é" + media2;
+    if (media2 >= 5) {resultado2.textContent = "Você foi aprovado no exame! Sua média semestal é " + media2;
     } else {
         resultado.textContent = "Você está de DP(Dependência), Sua média semestral foi de: " + media2;
     }
