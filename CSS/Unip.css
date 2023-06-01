@@ -28,12 +28,12 @@ body{
 }
 .informandoNP1{
     color: white;
-    margin-left: 43%;
+    margin-left: 40%;
     font-size: 20px;
 }
 .informandoNP2{
     color: white;
-    margin-left: 43%;
+    margin-left: 40%;
     font-size: 20px;
 }
 .informandoNota{
@@ -57,7 +57,7 @@ body{
 .Botao{
     border-radius: 5px;
     padding: 5px;
-    margin-left: 48%;
+    margin-left: 46.9%;
     border: none;
     margin-top: 1%;
     width: 7.3%;
@@ -65,7 +65,7 @@ body{
 .Botao2{
     border-radius: 5px;
     padding: 5px;
-    margin-left: 48%;
+    margin-left: 46.9%;
     border: none;
     margin-top: 1%;
 }
@@ -76,7 +76,7 @@ body{
 }
 .informacao2{
     color: white;
-    margin-left: 40%;
+    margin-left: 32%;
     font-size: 20px;
     margin-top: 1%;
 }
