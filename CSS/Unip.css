@@ -90,6 +90,7 @@ body{
 @media screen and (max-width: 414px) {
     .imagemUnip{
         margin-left: 28%;
+        margin-top: 20%;
     }
     .titulo{
         margin-left: 0%;
@@ -144,6 +145,7 @@ body{
 @media screen and (max-width: 390px) {
     .informandoNP1{
         margin-left: 7%;
+        margin-top: 20%;
     }
     .informandoNP2{
         margin-left: 7%;
@@ -163,6 +165,7 @@ body{
 @media screen and (max-width: 375px) {
     .imagemUnip{
         margin-left: 28%;
+        margin-top: 20%;
     }
     .titulo{
         margin-left: 0%;
@@ -217,6 +220,7 @@ body{
 @media screen and (max-width: 320px) {
     .imagemUnip{
         margin-left: 23%;
+        margin-top: 20%;
     }
     .titulo{
         margin-left: 0%;
