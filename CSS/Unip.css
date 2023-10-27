@@ -15,11 +15,18 @@ body{
     background-position: center;
     background-attachment: fixed;
 }
+.informacao{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
 .imagemUnip{
     width: 164px;
     height: 51px;
     margin-top: 7%;
-    margin-left: 45%;
 }
 .titulo{
     color: white;
@@ -28,12 +35,10 @@ body{
 }
 .informandoNP1{
     color: white;
-    margin-left: 40%;
     font-size: 20px;
 }
 .informandoNP2{
     color: white;
-    margin-left: 40%;
     font-size: 20px;
 }
 .informandoNota{
@@ -57,7 +62,6 @@ body{
 .Botao{
     border-radius: 5px;
     padding: 5px;
-    margin-left: 46.9%;
     border: none;
     margin-top: 1%;
     width: 7.3%;
@@ -65,24 +69,20 @@ body{
 .Botao2{
     border-radius: 5px;
     padding: 5px;
-    margin-left: 46.9%;
     border: none;
     margin-top: 1%;
 }
 .informacao1{
     color: white;
-    margin-left: 37%;
     font-size: 20px;
 }
 .informacao2{
     color: white;
-    margin-left: 32%;
     font-size: 20px;
     margin-top: 1%;
 }
 .informacao3{
     color: white;
-    margin-left: 34%;
     font-size: 20px;
     margin-top: 1%;
 }
