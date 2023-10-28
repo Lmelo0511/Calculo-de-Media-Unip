@@ -96,13 +96,11 @@ body{
         padding: 5px;
         width: 30.5%;
         margin-top: 5%;
-        margin-left:35%
     }
     .Botao2{
         padding: 5px;
         width: 30.5%;
         margin-top: 5%;
-        margin-left:35%
     }
     .informacao1{
         margin-left: 10%;
@@ -146,18 +144,6 @@ body{
         width: 20.8%;
         margin-top: 5%;
     }
-    .Botao{
-        padding: 5px;
-        width: 30.5%;
-        margin-top: 10%;
-        margin-left:35%
-    }
-    .Botao2{
-        padding: 5px;
-        width: 30.5%;
-        margin-top: 5%;
-        margin-left:35%
-    }
     .informacao1{
         margin-left: 6%;
     }
@@ -171,23 +157,6 @@ body{
 }
 
 @media screen and (max-width: 320px) {
-    .imagemUnip{
-        margin-left: 23%;
-        margin-top: 20%;
-    }
-    .titulo{
-        margin-left: 0%;
-        margin-top: 5%;
-        font-size: 20px;
-    }
-    .informandoNP1{
-        margin-left: 10%;
-        font-size: 15px;
-    }
-    .informandoNP2{
-        margin-left: 10%;
-        font-size: 15px;
-    }
     .informandoNota{
         border-radius: 5px;
         border: none;
@@ -203,18 +172,6 @@ body{
     .informandoNota3{
         width: 20.8%;
         margin-top: 5%;
-    }
-    .Botao{
-        padding: 5px;
-        width: 30.5%;
-        margin-top: 10%;
-        margin-left:35%
-    }
-    .Botao2{
-        padding: 5px;
-        width: 30.5%;
-        margin-top: 5%;
-        margin-left:35%
     }
     .informacao1{
         font-size: 17px;
