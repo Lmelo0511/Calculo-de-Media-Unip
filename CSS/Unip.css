@@ -76,20 +76,6 @@ body{
 }
 
 @media screen and (max-width: 414px) {
-    .imagemUnip{
-        margin-left: 28%;
-        margin-top: 20%;
-    }
-    .titulo{
-        margin-left: 0%;
-        margin-top: 5%;
-    }
-    .informandoNP1{
-        margin-left: 9%;
-    }
-    .informandoNP2{
-        margin-left: 9%;
-    }
     .informandoNota{
         border-radius: 5px;
         border: none;
@@ -131,13 +117,6 @@ body{
 }
 
 @media screen and (max-width: 390px) {
-    .informandoNP1{
-        margin-left: 7%;
-        margin-top: 20%;
-    }
-    .informandoNP2{
-        margin-left: 7%;
-    }
     .informacao1{
         margin-left: 7%;
     }
@@ -151,20 +130,6 @@ body{
 }
 
 @media screen and (max-width: 375px) {
-    .imagemUnip{
-        margin-left: 28%;
-        margin-top: 20%;
-    }
-    .titulo{
-        margin-left: 0%;
-        margin-top: 5%;
-    }
-    .informandoNP1{
-        margin-left: 11%;
-    }
-    .informandoNP2{
-        margin-left: 11%;
-    }
     .informandoNota{
         border-radius: 5px;
         border: none;
