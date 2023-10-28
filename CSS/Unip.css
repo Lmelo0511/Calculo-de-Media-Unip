@@ -76,6 +76,9 @@ body{
 }
 
 @media screen and (max-width: 414px) {
+    .titulo{
+        margin-top: 5%;
+    }
     .informandoNota{
         border-radius: 5px;
         border: none;
