@@ -76,6 +76,9 @@ body{
 }
 
 @media screen and (max-width: 414px) {
+    .imagemUnip{
+        margin-top: 3em;
+    }
     .titulo{
         margin-top: 5%;
     }
@@ -131,22 +134,6 @@ body{
 }
 
 @media screen and (max-width: 375px) {
-    .informandoNota{
-        border-radius: 5px;
-        border: none;
-        padding: 5px;
-        margin-top: 5%;
-    }
-    .informandoNota2{
-        border-radius: 5px;
-        border: none;
-        padding: 5px;
-        margin-top: 5%;
-    }
-    .informandoNota3{
-        width: 20.8%;
-        margin-top: 5%;
-    }
     .informacao1{
         margin-left: 6%;
     }
@@ -160,21 +147,12 @@ body{
 }
 
 @media screen and (max-width: 320px) {
-    .informandoNota{
-        border-radius: 5px;
-        border: none;
-        padding: 5px;
-        margin-top: 5%;
+    .titulo{
+        font-size: 20px;
     }
-    .informandoNota2{
-        border-radius: 5px;
-        border: none;
-        padding: 5px;
-        margin-top: 5%;
-    }
-    .informandoNota3{
-        width: 20.8%;
-        margin-top: 5%;
+    .informandoNP1,
+    .informandoNP2{
+        padding-top: 3%;
     }
     .informacao1{
         font-size: 17px;
